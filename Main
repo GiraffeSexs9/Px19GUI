@@ -38,9 +38,9 @@ game.StarterGui:SetCore(
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("PickleAssist.xyz Owner Hub", "Synapse")
+local L_4_ = L_3_.CreateLib("PickleAssist.xyz", "Synapse")
 local L_5_ = L_4_:NewTab("Aimlock")
-local L_6_ = L_5_:NewSection("PickleAssist.zyz")
+local L_6_ = L_5_:NewSection("PickleAssist.xyz OwnerHub")
 L_6_:NewButton(
     "Aimlock",
     "pickle niggas down",
